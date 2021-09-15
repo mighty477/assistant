@@ -58,7 +58,6 @@ try {
 } catch (error) {
     if (rtrnr != null) {
         kprskyspnnthss();
-        WScript.Quit;
     }
 }
 
